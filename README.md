@@ -18,6 +18,7 @@ The user can:
 * delete a Post using a long click
 * search a Post by tag
 * fetch more posts using infinite scroll loading
+* video of this features in this link [video](https://drive.google.com/file/d/10AVmFIHNYZtXBgQbXzCnFG5zvzqOKozU/view?usp=drivesdk)
 
 # Authors
 * Ouhna Elhassan
